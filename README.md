@@ -1,5 +1,5 @@
 # About Me:
-I'm a designer and a developer with 5+ years of experience in UI design and front-end coding. I build custom websites and platforms<br>from scratch. I use Next.js, TypeScript, and Tailwind CSS to bring ideas to life, especially focusing on interactive 3D web development
+I'm a designer and a developer with 5+ years of experience in UI design and front-end Development. I build custom websites and platforms<br>from scratch. I use Next.js, TypeScript, and Tailwind CSS to bring ideas to life, especially focusing on interactive 3D web development
 
 
 ## Socials:
